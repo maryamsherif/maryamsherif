@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100" height="100" frameBorder="0" background=/>
+  <img src="https://cdn.vectorstock.com/i/1000x1000/95/26/happy-student-in-hijab-empowered-business-woman-vector-39459526.webp" width="400" height="300" frameBorder="0" background=/>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/maryam-sherif-b3b614167/">
