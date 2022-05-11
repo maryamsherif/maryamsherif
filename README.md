@@ -1,12 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="480" height="480" frameBorder="0"/>
 </div>
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-<div id="badges">
   <a href="https://www.linkedin.com/in/maryam-sherif-b3b614167/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
