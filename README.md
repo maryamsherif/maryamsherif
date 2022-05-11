@@ -6,4 +6,6 @@ My name is Maryam Sherif :raising_hand:
 - :zap: I'm currently working on 4 projects in my university- 3 of them are Java projects.
 - :eyes: I'm currently looking for Summer Internships.
 - :seedling: I'm currently learning and improving my skills in JavaScript, React & NodeJS.
-- :mailbox: How to reach me: mariamsherif2.ms@gmail.com. 
+- :sparkling_heart: I love Reading Novels and Writing :books: .
+- :mailbox: How to reach me: mariamsherif2.ms@gmail.com
+
