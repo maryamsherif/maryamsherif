@@ -3,9 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=maryamsherif&style=flat-square&color=blue" alt="" align="center"/>
-  </div>
+
 <h1 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
@@ -13,9 +11,8 @@
 
 I'm Maryam Sherif :raising_hand:
 
-- :mortar_board: I'm currently a 3rd-Year Undergrad Student @ GUC majoring in Computer Science and Engineering. 
-- :zap: I'm currently working on 4 projects in my university- 3 of them are Java projects.
-- :eyes: I'm currently looking for Summer Internships.
+- :mortar_board: I'm a 3rd-Year Undergrad Student @ GUC majoring in Computer Science and Engineering. 
+- :eyes: I'm looking for Summer Internships.
 - :seedling: I'm currently learning and improving my skills in JavaScript, React & NodeJS.
 - :mailbox: How to reach me: mariamsherif2.ms@gmail.com
 
