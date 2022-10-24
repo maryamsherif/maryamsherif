@@ -11,8 +11,7 @@
 
 I'm Maryam Sherif :raising_hand:
 
-- :mortar_board: I'm a 3rd-Year Undergrad Student @ GUC majoring in Computer Science and Engineering. 
-- :eyes: I'm looking for Summer Internships.
+- :mortar_board: I'm a 4th-Year Undergrad Student @ GUC majoring in Computer Science and Engineering. 
 - :seedling: I'm currently learning and improving my skills in JavaScript, React & NodeJS.
 - :mailbox: How to reach me: mariamsherif2.ms@gmail.com
 
