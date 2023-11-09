@@ -1,18 +1,17 @@
-<div align="center">
+
+
+<h1 align="center">
+ Welcome! I'm Maryam :woman_technologist:
+</h1>
+
+- :mortar_board:I'm a senior student @ GUC majoring in Computer Science and Engineering.
+- :eyes: I'm Interested in Backend Development.
+- :mailbox: How to reach me: mariamsherif2.ms@gmail.com
+  <div align="center">
   <a href="https://www.linkedin.com/in/maryam-sherif-b3b614167/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
-
-<h1 align="center">
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
-
-I'm Maryam Sherif :raising_hand:
-
-- :mortar_board:I'm a senior student @ GUC majoring in Computer Science and Engineering. 
-- :mailbox: How to reach me: mariamsherif2.ms@gmail.com
 
 ---
 
@@ -21,8 +20,7 @@ I'm Maryam Sherif :raising_hand:
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="donet" alt="dotnet" width="40" height="40"/>&nbsp;
