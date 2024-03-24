@@ -5,7 +5,7 @@
 </h1>
 
 - :mortar_board:I'm a senior student @ GUC majoring in Computer Science and Engineering.
-- :eyes: I'm Interested in Backend Development.
+- :eyes: I'm Interested in Software Engineering.
 - :mailbox: How to reach me: mariamsherif2.ms@gmail.com
   <div align="center">
   <a href="https://www.linkedin.com/in/maryam-sherif-b3b614167/">
@@ -32,11 +32,9 @@
 
 ### 💻 Favorite IDEs :
 <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamsherif)](https://github.com/anuraghazra/github-readme-stats)
