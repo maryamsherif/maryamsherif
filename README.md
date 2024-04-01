@@ -4,7 +4,12 @@
  Welcome! I'm Maryam :woman_technologist:
 </h1>
 
-- :mortar_board:I'm a senior student @ GUC majoring in Computer Science and Engineering.
+<div align="center">
+ 
+[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+</div>
+
+- :mortar_board:I'm a senior student at <a href="https://www.guc.edu.eg/en/academic_programs/programs/program_details.aspx?programId=4">The German University in Cairo</a> majoring in Computer Science and Engineering.
 - :eyes: I'm Interested in Software Engineering.
 - :mailbox: How to reach me: mariamsherif2.ms@gmail.com
   <div align="center">
