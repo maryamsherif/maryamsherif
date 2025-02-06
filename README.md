@@ -9,8 +9,8 @@
 [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 </div>
 
-- :mortar_board:I'm a senior student at <a href="https://www.guc.edu.eg/en/academic_programs/programs/program_details.aspx?programId=4">The German University in Cairo</a> majoring in Computer Science and Engineering.
-- :eyes: I'm Interested in Software Engineering.
+- :mortar_board: I have a bachelor's degree in Computer Science and Engineering from <a href="https://www.guc.edu.eg/en/academic_programs/programs/program_details.aspx?programId=4">The German University in Cairo</a>.
+- :eyes: I'm Interested in Software Engineering and Data Engineering roles.
 - :mailbox: How to reach me: mariamsherif2.ms@gmail.com
   <div align="center">
   <a href="https://www.linkedin.com/in/maryam-sherif-b3b614167/">
